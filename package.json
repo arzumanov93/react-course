@@ -1,0 +1,23 @@
+{
+  "name": "react-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arzumanov93/react-course.git"
+  },
+  "author": "Arzumanov A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arzumanov93/react-course/issues"
+  },
+  "homepage": "https://github.com/arzumanov93/react-course#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.24.0"
+  }
+}
